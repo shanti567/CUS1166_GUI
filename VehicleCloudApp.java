@@ -1,6 +1,5 @@
 public class VehicleCloudApp {
-    public static void main (String[]aStrings){
+    public static void main(String[] args) {
         new VehicleCloudFrame();
     }
-
 }
